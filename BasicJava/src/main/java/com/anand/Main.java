@@ -4,8 +4,7 @@ package com.anand;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        for (int i = 1; i <= 5; i++) {
-            System.out.println("Hi this is anand");
-        }
+           Sum s1=new Sum();
+           System.out.println(s1.m1(11,12));
     }
 }

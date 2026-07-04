@@ -10,5 +10,7 @@ public class Main {
            System.out.println(s2.m2(10,2));
            Mul mul=new Mul();
            System.out.println(mul.m3(12,13));
+           Divsion div=new Divsion();
+           System.out.println(div.devison(15,3));
     }
 }

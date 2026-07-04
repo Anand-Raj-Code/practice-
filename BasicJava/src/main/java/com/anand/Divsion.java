@@ -6,4 +6,8 @@ public class Divsion {
         int result=a/b;
         return  result;
     }
+    public  double devison2(double a, double b){
+        double result=a/b;
+        return  result;
+    }
 }

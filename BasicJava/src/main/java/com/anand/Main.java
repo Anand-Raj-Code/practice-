@@ -8,5 +8,7 @@ public class Main {
            System.out.println(s1.m1(11,12));
            Sub s2=new Sub();
            System.out.println(s2.m2(10,2));
+           Mul mul=new Mul();
+           System.out.println(mul.m3(12,13));
     }
 }
